@@ -1,0 +1,11 @@
+config MTK_IMGSENSOR
+  bool CONFIG_MTK_IMGSENSOR
+  default n
+  help
+    CONFIG_MTK_IMGSENSOR
+
+config MTK_CAMERA_LSHUTTER
+  bool CONFIG_MTK_CAMERA_LSHUTTER
+  default n
+  help
+    CONFIG_MTK_CAMERA_LSHUTTER
