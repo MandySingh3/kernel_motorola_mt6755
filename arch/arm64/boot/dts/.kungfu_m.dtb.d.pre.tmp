@@ -1,0 +1,10 @@
+kungfu_m.o: arch/arm64/boot/dts/kungfu_m.dts \
+ arch/arm64/boot/dts/mt6755.dtsi \
+ arch/arm64/boot/dts/include/dt-bindings/clock/mt6755-clk.h \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm64/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm64/boot/dts/include/dt-bindings/mmc/mt6755-msdc.h \
+ arch/arm64/boot/dts/mt6755-pinfunc.h arch/arm64/boot/dts/mt65xx.h \
+ include/generated/autoconf.h arch/arm64/boot/dts/cust_mt6755_msdc.dtsi \
+ arch/arm64/boot/dts/trusty.dtsi arch/arm64/boot/dts/mt6351.dtsi \
+ arch/arm64/boot/dts/cust.dtsi

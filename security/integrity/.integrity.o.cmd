@@ -1,0 +1,1 @@
+cmd_security/integrity/integrity.o := /home/mandysingh/RR/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9/bin/aarch64-linux-android-ld -EL    -r -o security/integrity/integrity.o security/integrity/iint.o security/integrity/integrity_audit.o 

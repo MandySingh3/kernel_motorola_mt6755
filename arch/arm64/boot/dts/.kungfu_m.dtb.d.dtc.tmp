@@ -1,0 +1,1 @@
+arch/arm64/boot/dts/kungfu_m.dtb: arch/arm64/boot/dts/.kungfu_m.dtb.dts.tmp
